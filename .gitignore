@@ -16,5 +16,5 @@
 .prettierignore
 
 # Ignore unnecessary elements
-design/
-README-template.md
+./design/*
+./README-template.md
