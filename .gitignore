@@ -18,3 +18,5 @@
 # Ignore unnecessary elements
 design/*
 README-template.md
+style-guide.md
+stylesheets/*.map
